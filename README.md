@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louismiranda40
-- 👀 I’m interested in CyPython
-- 🌱 I’m currently learning CyPython
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on CyPython starter Projects
 - 📫  just messege me on here if you like to collaborate
 
